@@ -1,0 +1,9 @@
+if(!dir.exists("data")){
+  dir.create("data")
+}
+if(!dir.exists("output")){
+  dir.create("output")
+}
+if(!dir.exists("分類")){
+  dir.create("分類")
+}
